@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for our Cinema Management Application! This project is a collaborative effort designed to provide a comprehensive system for managing cinema operations, including ticket bookings, user authentication, and much more. Developed with passion by a team of three friends, this application aims to enhance the movie-going experience for both cinema owners and patrons.
 
-**_Features_**
+**_Features:_**
 
 **User Authentication**: Secure login and registration system to ensure user data protection.
 
@@ -18,11 +18,11 @@ Welcome to the GitHub repository for our Cinema Management Application! This pro
 
 **Special Offers**: Regular updates on special promotions and offers available to registered users.
 
-**_Technologies Used_**
+**_Technologies Used:_**
 
 Java, Java Swing for UI.
 
-**Acknowledgments**
+**Acknowledgments:**
 
 Thanks to all the contributors who have helped to shape this project.
 Special thanks to our friends and family for their support and feedback.
